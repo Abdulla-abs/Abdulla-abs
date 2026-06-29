@@ -44,12 +44,12 @@ val developer = Developer(
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulla-abs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulla-abs&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="165" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulla-abs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
